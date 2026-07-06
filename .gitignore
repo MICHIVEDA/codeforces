@@ -1,0 +1,12 @@
+### IntelliJ ###
+java/.idea/
+java/out/
+java/*.iml
+
+### Vscode ###
+.vscode/
+*/.vscode/
+
+### Mac OS ###
+.DS_Store
+**/.DS_Store
